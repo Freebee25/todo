@@ -1,0 +1,7 @@
+.text-decoration-line-through {
+  text-decoration: line-through;
+  color: red;
+}
+body {
+  background-color: rgb(222, 245, 243);
+}
